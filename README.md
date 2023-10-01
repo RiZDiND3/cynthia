@@ -1,1 +1,1 @@
-# cynthia
+# A click to upgrade game
